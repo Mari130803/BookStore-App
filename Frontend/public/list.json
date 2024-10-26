@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "name":"story Book",
+        "title":"Story Reading",
+        "price":10,
+        "category":"story",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1728284152~exp=1728287752~hmac=6ed4ef1853fb5994a66c124653279a3c4133c947d555a3e38906f89e1e2a7c3a&w=826"
+    },
+
+    {
+        "id":2,
+        "name":"drawing Book",
+        "title":"Drawing",
+        "price":15,
+        "category":"drawing",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1728284152~exp=1728287752~hmac=6ed4ef1853fb5994a66c124653279a3c4133c947d555a3e38906f89e1e2a7c3a&w=826"
+    },
+
+    
+    {
+        "id":3,
+        "name":"comedy Book",
+        "title":"Humuor",
+        "price":20,
+        "category":"comedy",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1728284152~exp=1728287752~hmac=6ed4ef1853fb5994a66c124653279a3c4133c947d555a3e38906f89e1e2a7c3a&w=826"
+    },
+    
+    
+    {
+        "id":4,
+        "name":"Horror Book",
+        "title":"Thriller",
+        "price":25,
+        "category":"thriler",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1728284152~exp=1728287752~hmac=6ed4ef1853fb5994a66c124653279a3c4133c947d555a3e38906f89e1e2a7c3a&w=826"
+    },
+    
+    
+    {
+        "id":5,
+        "name":"studyBook",
+        "title":"Knowledge",
+        "price":40,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1728284152~exp=1728287752~hmac=6ed4ef1853fb5994a66c124653279a3c4133c947d555a3e38906f89e1e2a7c3a&w=826"
+    },
+    
+    
+    {
+        "id":6,
+        "name":"GKBook",
+        "title":"General Knowledge",
+        "price":50,
+        "category":"Gk",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1728284152~exp=1728287752~hmac=6ed4ef1853fb5994a66c124653279a3c4133c947d555a3e38906f89e1e2a7c3a&w=826"
+    },
+    
+    
+    {
+        "id":7,
+        "name":"All-Book",
+        "title":"All-in-one",
+        "price":100,
+        "category":"All",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1728284152~exp=1728287752~hmac=6ed4ef1853fb5994a66c124653279a3c4133c947d555a3e38906f89e1e2a7c3a&w=826"
+    }
+    
+
+
+]
